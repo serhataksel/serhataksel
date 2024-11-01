@@ -26,8 +26,8 @@ I am a candidate engineer studying Mechatronics, with experience in projects rel
 
 <div align="center">
   <a href="https://github.com/SerhatAksel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=serhataksel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=serhataksel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
   </a>
 </div>
 <p align="center">
