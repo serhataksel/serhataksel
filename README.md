@@ -56,8 +56,8 @@ I am a candidate engineer studying Mechatronics, with experience in projects rel
         <td><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=pytest,phpunit"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Graphic & Web Tools</td>
+        <td><img height="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/photoshop"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
