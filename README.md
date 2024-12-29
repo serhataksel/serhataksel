@@ -7,7 +7,7 @@ I am a candidate engineer studying Mechatronics, with experience in projects rel
 
  - 🔭 I am currently working on recycling separators
   - 🌱 I’m currently learning; Java, C#, Python
-  - 💬 Ask me about **Html, Css, PHP, C#, .NET, Java, Wordpress, Social Media About, Ad Management.**
+  - 💬 Ask me about **Html, Css, PHP, C#, .NET Wordpress, Plesk, CPanel, Social Media Ads and About, Ad Management.**
   - ⚡ Fun fact: I look like a hobbit.
 
 <h3 align="left">Connect with me:</h3>
