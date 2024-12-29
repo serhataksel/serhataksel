@@ -2,7 +2,7 @@
 
 ### Hello 🌎, I'm M. Serhat Aksel
 
-I am a candidate engineer studying Mechatronics, with experience in projects related to recycling systems. My deep knowledge in electronics and software, combined with strong problem-solving skills, allows me to focus on producing creative and effective solutions in my projects. I aim to specialize in smart systems and automation technologies in my career, seeking to make a difference in this dynamic field. In addition, I work freelance at Aksel Web, where I develop innovative projects as a UI/UX developer, social media ad manager, and graphic and web designer. By reflecting my entrepreneurial spirit in every project, I strive to leverage the opportunities that technology presents to contribute to a sustainable and effective future. 🚀
+I am a studying Mechatronics, with experience in projects related to recycling systems. My deep knowledge in electronics and software, combined with strong problem-solving skills, allows me to focus on producing creative and effective solutions in my projects. I aim to specialize in smart systems and automation technologies in my career, seeking to make a difference in this dynamic field. In addition, I work freelance at Aksel Web, where I develop innovative projects as a UI/UX developer, social media ad manager, and graphic and web designer. By reflecting my entrepreneurial spirit in every project, I strive to leverage the opportunities that technology presents to contribute to a sustainable and effective future. 🚀
 
 
  - 🔭 I am currently working on recycling separators
